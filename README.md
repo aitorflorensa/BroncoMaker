@@ -1,3 +1,2 @@
-## Hi there, I'm Bronco 👋
+## Hi there, I'm Aitor👋
 
-📚 Currently learning HTML, CSS, JavaScript & Python
